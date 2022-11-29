@@ -1,0 +1,47 @@
+h1 {
+    font-size: 50px;
+
+}
+
+.a-flex {
+    width: 130px;
+    height: 40px;
+    left: 709px;
+    top: 9px;
+}
+
+.d-flex {
+    width: 130px;
+    height: 40px;
+    left: 880px;
+    top: 10px;
+}
+
+h1 {
+    border-image-source: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+        linear-gradient(0deg, #FFFEFE, #FFFEFE);
+    width: 855px;
+    height: 160px;
+    top: 63px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 80px;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #daa107;
+}
+
+.carousel-inner {
+    background-color: rgb(0, 0, 0);
+}
+
+.card-body {
+    background-color: #daa207;
+    font-style: normal;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.534);
+}
